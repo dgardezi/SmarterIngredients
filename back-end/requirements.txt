@@ -1,0 +1,12 @@
+django
+gunicorn
+django-heroku
+jsonpickle
+opencv-python
+flask
+numpy
+textblob
+google-cloud
+google-cloud-vision
+google-api-python-client
+inflect
